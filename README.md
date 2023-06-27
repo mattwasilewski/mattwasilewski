@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matt!</h1>
 <p align="center">
-- 🔭 I’m currently working on [Doggo app](https://github.com/DogsApp/backend)
+- 🔭 I’m currently working on Doggo app! (https://github.com/DogsApp/backend)
 </p>
 <p align="center">
 - 🌱 I’m currently learning **Java, AWS and Kubernetes :)**
