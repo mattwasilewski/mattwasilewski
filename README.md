@@ -2,9 +2,7 @@
 <p align="center">
 - 🔭 I’m currently working on What can i eat app! ((https://github.com/BartoszBienn99/WhatCanIEat))
 </p>
-<p align="center">
-- 🌱 I’m currently learning Java, AWS and Kubernetes :)
-</p>
+
 <p align="center">
 - 📫 How to reach me: mattwasilewski96@gmail.com
 </p>
