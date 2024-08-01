@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matt!</h1>
 <p align="center">
-- 🔭 I’m currently working on What can i eat app! ((https://github.com/BartoszBienn99/WhatCanIEat))
+- 🔭 I’m currently working on my own private project ;)
 </p>
 
 <p align="center">
